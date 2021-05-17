@@ -1,0 +1,22 @@
+body {
+    background-color: #d6d6d6 !important;
+}
+
+label {
+    font-family: "Agency FB", sans-serif;
+}
+
+h4 {
+    font-family: Impact, sans-serif;
+}
+
+.card {
+    box-shadow: 2px 2px 15px 4px rgba(103, 103, 103, 0.55);
+}
+
+.info {
+    height: 2rem;
+    padding: 0.3rem 1rem;
+    margin: 0 1rem;
+    color:whitesmoke;
+}
